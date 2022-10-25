@@ -1,4 +1,4 @@
-<h1 align="center">DOCUMENTACION INTERNA DEPARTAMENTOS SISTEMAS</h1>
+<h1 align="center">DOCUMENTACION INTERNA DEPARTAMENTO SISTEMAS</h1>
 <h3 align="center">Estos son lo archvios que describen los puestos y funciones del departamento</h3>
 
 - ~/descripciones/F-COS-02 Descripcion de Puestos.xlsx [Descripciones de los puesto](https://github.com/Cosbiome/documentacion_base_sistemas/blob/main/descripciones/F-COS-02%20Descripcion%20de%20Puestos.xlsx)
