@@ -3,6 +3,8 @@
 
 - [~/descripciones/F-COS-02 Descripcion de Puestos.xlsx](https://github.com/Cosbiome/documentacion_base_sistemas/blob/main/descripciones/F-COS-02%20Descripcion%20de%20Puestos.xlsx)
 
+- [~/procedimientos/I-ACAD-01 GRABAR Y SUBIR UNA CLASE.docx](https://github.com/Cosbiome/documentacion_base_sistemas/blob/main/procedimientos/I-ACAD-01%20GRABAR%20Y%20SUBIR%20UNA%20CLASE.docx)
+
 - 🌱 I’m currently learning **Flutter, ReactJS, TensorFlow, Keras**
 
 - 📫 How to reach me **sistemas@cosbiome.com**
