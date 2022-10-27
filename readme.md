@@ -5,6 +5,8 @@
 
 - [~/procedimientos/I-ACAD-01 GRABAR Y SUBIR UNA CLASE.docx](https://github.com/Cosbiome/documentacion_base_sistemas/blob/main/procedimientos/I-ACAD-01%20GRABAR%20Y%20SUBIR%20UNA%20CLASE.docx)
 
+- [~/diagramas/I-ACADIAG-01 GRABAR Y SUBIR UNA CLASE.docx](https://github.com/Cosbiome/documentacion_base_sistemas/blob/main/diagramas/I-ACADIAG-0101%20GRABAR01%20Y01%20SUBIR01%20UNA01%20CLASE.pdf)
+
 - 🌱 I’m currently learning **Flutter, ReactJS, TensorFlow, Keras**
 
 - 📫 How to reach me **sistemas@cosbiome.com**
